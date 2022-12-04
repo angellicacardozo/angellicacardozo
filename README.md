@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-Senior Software Engineer | Bachelor of Mathematics | Interest in software and math stuff (Real Analysis).
-Currently working as a front-end engineer.
+My name is Angellica and I'm an Senior IT professional with both Software and Mathematics Degree.
+
+* Angular
+* Javascript
+* Math
+
+A senior software engineer currently working as a front-end engineer.
 
 Thanks for visting my profile.
+
+[![Twitter: angellicaaraujo](https://img.shields.io/twitter/url?label=%40angellicaaraujo&style=social&url=https%3A%2F%2Ftwitter.com%2Fangellicaaraujo)](https://www.twitter.com/angellicaaraujo)
+[![Linkedin: angellica-araujo](https://img.shields.io/badge/Angellica%20Araujo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angellica-araujo/)
+
+#### 👨🏽‍💻 Stackblitz
+
+Consider visiting this collection at [@angellicacardozo/collections/angular](https://stackblitz.com/@angellicacardozo/collections/angular) to see a collection of Angular cases of use.
 
 #### 🌱 I'm currently studying ...
 
