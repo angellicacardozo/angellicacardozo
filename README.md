@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-My name is Angellica and I'm an Senior IT professional with both Software and Mathematics Degree.
+My name is Angellica and I'm a Senior IT professional with both Software and Mathematics Degrees.
 
 * Angular
 * Javascript
 * Math
 
+
 A senior software engineer currently working as a front-end engineer.
 
-Thanks for visting my profile.
+Thanks for visiting my profile.
 
 [![Twitter: angellicaaraujo](https://img.shields.io/twitter/url?label=%40angellicaaraujo&style=social&url=https%3A%2F%2Ftwitter.com%2Fangellicaaraujo)](https://www.twitter.com/angellicaaraujo)
 [![Linkedin: angellica-araujo](https://img.shields.io/badge/Angellica%20Araujo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angellica-araujo/)
