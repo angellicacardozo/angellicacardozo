@@ -4,7 +4,7 @@ My name is Angellica and I'm a Senior IT professional with both Software and Mat
 
 * Angular
 * Javascript
-* Math
+* Python
 
 
 A senior software engineer currently working as a front-end engineer.
