@@ -24,9 +24,9 @@ Consider visiting this collection at [@angellicacardozo/collections/angular](htt
 
 In 2021, INEP measured the score of students on mathematics tests. There are different groups of students: public school students and private school students. We want to evaluate, with 90% of confidence, if students score differently given the school system.
 
-[Workday alcohol consumption influence on Mathematics final grade](https://www.kaggle.com/code/angellicaaraujo/workday-alcohol-consumption-influence-on-mathemati/notebook)
+[Exploring the Influence of Workday Alcohol Consumption on Student Math Performance](https://www.kaggle.com/code/angellicaaraujo/workday-alcohol-consumption-influence-on-mathemati/notebook)
 
-A notebook is available on the Kaggle platform addressing a Test of Independence.
+A notebook is available on the Kaggle platform addressing a Test of Independence. A notebook contribution to the student grade prediction dataset to provide interesting insights into the relationship between workday alcohol consumption and mathematics final grade. 
 
 [A gentle Random Forest approach applied to Give Me Some Credit Kaggle challenge](https://medium.com/p/35657214fb40)
 
