@@ -7,7 +7,7 @@ My name is Angellica and I'm a Senior IT professional with both Software and Mat
 * Python
 
 
-A senior software engineer currently working as a front-end engineer.
+I am a senior software engineer and currently working as a front-end engineer.
 
 Thanks for visiting my profile.
 
@@ -17,6 +17,10 @@ Thanks for visiting my profile.
 #### 👨🏽‍💻 Stackblitz
 
 Consider visiting this collection at [@angellicacardozo/collections/angular](https://stackblitz.com/@angellicacardozo/collections/angular) to see a collection of Angular cases of use.
+
+[Test Angular application](https://stackblitz.com/edit/wosnyv?file=README.md)
+
+Techniques for unit and integration testing Angular applications through Tour of Heroes application tutorial.
 
 #### 🌱 I'm currently studying ...
 
