@@ -14,7 +14,7 @@ Thanks for visiting my profile.
 [![Twitter: angellicaaraujo](https://img.shields.io/twitter/url?label=%40angellicaaraujo&style=social&url=https%3A%2F%2Ftwitter.com%2Fangellicaaraujo)](https://www.twitter.com/angellicaaraujo)
 [![Linkedin: angellica-araujo](https://img.shields.io/badge/Angellica%20Araujo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angellica-araujo/)
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" /> Angular
+#### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="14" height="14" /> Angular
 
 Consider visiting this collection at [@angellicacardozo/collections/angular](https://stackblitz.com/@angellicacardozo/collections/angular) to see a collection of Angular cases of use.
 
