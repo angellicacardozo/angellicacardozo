@@ -1,24 +1,24 @@
-### Hi there 👋
+### angellica 👋
 
-My name is Angellica and I'm a Senior IT professional with both Software and Mathematics Degrees.
+My name is Angellica Araujo and I'm a Senior IT professional with both Software and Mathematics Degrees.
 
 * Angular
 * Javascript
 * Python
 
 
-I am a senior software engineer and currently working as a front-end engineer.
+I'm currently working as a front-end engineer.
 
 Thanks for visiting my profile.
 
 [![Twitter: angellicaaraujo](https://img.shields.io/twitter/url?label=%40angellicaaraujo&style=social&url=https%3A%2F%2Ftwitter.com%2Fangellicaaraujo)](https://www.twitter.com/angellicaaraujo)
 [![Linkedin: angellica-araujo](https://img.shields.io/badge/Angellica%20Araujo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angellica-araujo/)
 
-#### 👨🏽‍💻 Stackblitz
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="20" height="20" /> Angular
 
 Consider visiting this collection at [@angellicacardozo/collections/angular](https://stackblitz.com/@angellicacardozo/collections/angular) to see a collection of Angular cases of use.
 
-[Test Angular application](https://stackblitz.com/edit/wosnyv?file=README.md)
+[Test Angular application (Jasmine and Karma)](https://stackblitz.com/edit/wosnyv?file=README.md)
 
 Techniques for unit and integration testing Angular applications through Tour of Heroes application tutorial.
 
